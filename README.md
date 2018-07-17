@@ -1,5 +1,7 @@
 ### Installation
-$ git clone https://github.com/J2P/react-bingo.git
+``` bash
+$ git clone https://github.com/tringuyen1121/Bingo-Game.git
 $ cd react-bingo
 $ yarn
 $ yarn start
+```
